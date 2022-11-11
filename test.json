@@ -2,4 +2,5 @@
     number: null;
     widht:"$schema": hello string;
     aboba: true;
+    //hello from the server!!
 }
